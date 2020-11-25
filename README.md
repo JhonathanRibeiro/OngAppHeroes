@@ -1,6 +1,7 @@
 # OngAppHeroes
 Aplicativo desenvolvido na semana **Omnistack** da **Rocketseat** ministrado por **Diego Fernandes**.<br/>
 ** Algumas modificações foram feitas para poder inserir testes E2E com o **Cypress** neste projeto. ** <br/>
+![image](https://user-images.githubusercontent.com/37172038/100184199-b8439480-2ebf-11eb-8e8d-6779f995abed.png)
 
 ## Configurações 
 Copie e cole o comando abaixo no seu terminal, ele irá clonar o repositório deste projeto em sua máquina e <br/>
