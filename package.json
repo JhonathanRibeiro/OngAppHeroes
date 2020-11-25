@@ -1,0 +1,21 @@
+{ 
+  "name":"ongapp",
+  "version": "1.0.0",
+  "description": "Aplicação criada através do curso de React.js e Node.js oferecido pelo Rocketseat, na semana Omnistack.",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": ""
+}
